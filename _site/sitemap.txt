@@ -1,0 +1,13 @@
+
+/404
+/archive
+/atom.xml
+/
+/rss.xml
+/sitemap.txt
+/tags
+/sitemap.xml
+/robots.txt
+/feed.xml
+
+/2017/04/Lorem-Ipsum.html
